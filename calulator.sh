@@ -7,3 +7,5 @@ z=a+b
 # Addition of three number
 
 x=a+b+c
+
+# Division
