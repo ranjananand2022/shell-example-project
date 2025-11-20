@@ -4,7 +4,7 @@
 # Addition of two number
 
 z=a+b
-echo \\\" Hello world my git job schedule through jenkin v1"
+echo " Hello world my git job schedule through jenkin v2"
 # Addition of three number
 
 x=a+b+c
